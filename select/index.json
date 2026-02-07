@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "過ぎて世",
+  "base_artist": "酔シグレ",
+  "createdAt": "2026-02-07T07:55:07.229670Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "過ぎて世",
+      "artist": "酔シグレ",
+      "has_synced": false,
+      "path": "select/pl_01_過ぎて世_酔シグレ.txt"
+    }
+  ]
+}
